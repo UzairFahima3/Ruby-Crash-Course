@@ -1,2 +1,2 @@
 # puts "Hello World"
-load("classes_intro.rb")
+load("code_folder/classes_intro.rb")
